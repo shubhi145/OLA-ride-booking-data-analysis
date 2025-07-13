@@ -2,4 +2,4 @@
 
 
 ![Dashboard Overview](dashboard.png.png)
-![pie chart](pie chart.png.png)
+![pie chart](piechart.png.png)
