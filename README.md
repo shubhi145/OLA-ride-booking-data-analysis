@@ -1,5 +1,5 @@
 ## 📊 Dashboard Preview
 
 
-![Dashboard Overview](board.png)
+![Dashboard Overview](dashboard.png.png)
 
